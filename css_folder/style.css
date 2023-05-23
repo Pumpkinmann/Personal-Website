@@ -135,3 +135,12 @@ a{
 p{
     line-height: 2;
 }
+
+li {
+    marigin = 2rem;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
