@@ -137,7 +137,7 @@ p{
 }
 
 li {
-    marigin = 2rem;
+    marigin: 2rem;
     padding: 20px;
 }
 
