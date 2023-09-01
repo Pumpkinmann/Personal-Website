@@ -77,10 +77,9 @@ a{
 
 .resume{
     position: relative;
-}
-
-.resume > div {
-    width: 50%;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 0;
 }
 
 .contact-me{
