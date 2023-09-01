@@ -81,9 +81,6 @@ a{
     flex-direction: row;
 }
 
-.resume > div {
-    flex: 1 0 0;
-}
 
 .contact-me{
     position: relative;
@@ -146,4 +143,8 @@ li {
 
 ul {
     list-style-type: none;
+}
+
+.resume > div {
+    flex: 1 0 0;
 }
