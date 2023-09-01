@@ -81,6 +81,10 @@ a{
     flex-direction: row;
 }
 
+.resume > div {
+    width: 50%;
+}
+
 .contact-me{
     position: relative;
 }
