@@ -79,6 +79,9 @@ a{
     position: relative;
     display: flex;
     flex-direction: row;
+}
+
+.resume > div {
     flex-basis: 0;
 }
 
