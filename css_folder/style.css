@@ -82,7 +82,7 @@ a{
 }
 
 .resume > div {
-    flex-basis: 50%;
+    flex: 1 0 0;
 }
 
 .contact-me{
