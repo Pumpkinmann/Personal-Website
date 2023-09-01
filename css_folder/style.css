@@ -77,8 +77,6 @@ a{
 
 .resume{
     position: relative;
-    display: flex;
-    flex-direction: row;
 }
 
 .resume > div {
